@@ -1,14 +1,14 @@
-layout_spectrum: 0.856282654684037
-typography_spectrum: 0.9416479133069515
+layout_spectrum: 0.5698640157934278
+typography_spectrum: 0.5247100626584142
 color:
-  brandStrength: 0.9169943954329938
-  lightness: 0.6282021091319621
-  saturation: 0.5015154441352934
-  rhythmicContrast: 0.4093035024125129
+  brandStrength: 0.5695288165006787
+  lightness: 0.5727011382114142
+  saturation: 0.8091573663987219
+  rhythmicContrast: 0.007039380958303809
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: I Found My Motor City
